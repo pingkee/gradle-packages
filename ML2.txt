@@ -1,0 +1,5 @@
+[versions]
+robolectricVersion = "4.8"
+
+[libraries]
+test-robolectric = { module = "org.robolectric:robolectric", version.ref = "robolectricVersion"}
